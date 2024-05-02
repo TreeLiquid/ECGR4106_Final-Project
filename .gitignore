@@ -158,3 +158,18 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+data/synthetic_network_traffic.csv
+data/kddcup/kddcup_corrected.csv
+data/kddcup/kddcup.data.corrected
+data/pcap/midnight.csv
+data/pcap/midnight.zip
+data/pcap/night1.csv
+data/pcap/saturday1.csv
+data/TrafficLabelling/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+data/TrafficLabelling/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+data/TrafficLabelling/Friday-WorkingHours-Morning.pcap_ISCX.csv
+data/TrafficLabelling/Monday-WorkingHours.pcap_ISCX.csv
+data/TrafficLabelling/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+data/TrafficLabelling/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+data/TrafficLabelling/Tuesday-WorkingHours.pcap_ISCX.csv
+data/TrafficLabelling/Wednesday-workingHours.pcap_ISCX.csv
