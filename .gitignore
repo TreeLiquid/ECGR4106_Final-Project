@@ -173,3 +173,6 @@ data/TrafficLabelling/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.cs
 data/TrafficLabelling/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
 data/TrafficLabelling/Tuesday-WorkingHours.pcap_ISCX.csv
 data/TrafficLabelling/Wednesday-workingHours.pcap_ISCX.csv
+data/midnight.zip
+data/night1.csv
+data/saturday1.csv
