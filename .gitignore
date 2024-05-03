@@ -176,4 +176,11 @@ data/TrafficLabelling/Wednesday-workingHours.pcap_ISCX.csv
 data/midnight.zip
 data/night1.csv
 data/saturday1.csv
+<<<<<<< HEAD
 data/Tempdir/Monday-WorkingHours.pcap_ISCX.csv
+=======
+
+.tmp.drivedownload/
+.tmp.driveupload/
+data/kddcup/midnight.csv
+>>>>>>> 219dab9553defeae3e88998a975ec433e7e6897e
