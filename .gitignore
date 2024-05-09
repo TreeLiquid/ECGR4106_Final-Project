@@ -176,13 +176,22 @@ data/TrafficLabelling/Wednesday-workingHours.pcap_ISCX.csv
 data/midnight.zip
 data/night1.csv
 data/saturday1.csv
-<<<<<<< HEAD
-data/Tempdir/Monday-WorkingHours.pcap_ISCX.csv
-=======
 
 .tmp.drivedownload/
 .tmp.driveupload/
 data/kddcup/midnight.csv
->>>>>>> 219dab9553defeae3e88998a975ec433e7e6897e
-data/TrafficLabelling/full_dataset.csv
+data/Monday-WorkingHours.pcap_ISCX.zip
 data/TrafficLabelling/Monday-WorkingHours.pcap_ISCX.zip
+data/TrafficLabelling/7_Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+data/TrafficLabelling/6_Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+data/TrafficLabelling/5_Friday-WorkingHours-Morning.pcap_ISCX.csv
+data/TrafficLabelling/4_Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+data/TrafficLabelling/3_Wednesday-workingHours.pcap_ISCX.csv
+data/TrafficLabelling/2_Tuesday-WorkingHours.pcap_ISCX.csv
+data/TrafficLabelling/1_Monday-WorkingHours.pcap_ISCX.csv
+data/pcap/synthetic_network_traffic.csv
+data/pcap/Monday-WorkingHours.pcap_ISCX.zip
+data/pcap/4_Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+full_dataset.zip
+data/TrafficLabelling/7_Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+full_dataset.csv
