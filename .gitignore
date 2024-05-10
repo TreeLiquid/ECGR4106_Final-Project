@@ -195,4 +195,9 @@ data/pcap/4_Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
 full_dataset.zip
 data/TrafficLabelling/7_Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 full_dataset.csv
+<<<<<<< Updated upstream
+results/
 data/Tempdir/Monday-WorkingHours.pcap_ISCX.csv
+=======
+results/
+>>>>>>> Stashed changes
